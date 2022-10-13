@@ -1,16 +1,17 @@
 <h1>Controle de Estoque com JAVA</h1>
 
-<p>Trabalho realizado a partir do módulo 6 do curso de JAVA completo, do básico ao avançado da escola UDEMY.
+<p>Trabalho realizado a partir do módulo 6 do curso de JAVA completo do básico ao avançado da escola UDEMY.
    O módulo 6 da etapa Programação Orientada a Objetos com JAVA, tem como objetivo estudar a criação de Classes, Atributos
    Métodos e Membros estáticos.</p>
 
-<p>O programa tem como objetivo ler os dados inseridos por um usuário em estoque (nome, preço, quantidade no estoque). 
+<p>O programa tem como objetivo ler os dados inseridos por um usuário em estoque (hora de recebimento, nome, data, nº lote, quantidade, preço, peso). 
    Em seguida:
-   • Mostrar os dados do produto (nome, preço, quantidade no estoque, valor total no estoque).
    • Realizar uma verificação da hora de entrada dos produtos no sistema.
-   • Realizar uma entrada no estoque e mostrar novamente o estoque atualizado.
-   • Realizar uma saída no estoque e mostrar novamente o estoque atualizado.
-   • Realizar um cálculo total do peso total dos produtos recebidos.</p>
+   • Mostrar os dados do produto (hora de recebimento, nome, data, nº lote, quantidade, preço, peso).
+   • Adicionar novos produtos e atualizar o estoque.
+   • Retirar produtos e atualizar o estoque.
+   • Realizar um cálculo do peso total dos produtos recebidos.
+   • Realizar uma verificação do peso dos produtos e da quantidade caso acima do permitido emitir uma menssagem de aviso.</p>
 
 <h1> Técnologias Usada 💻 </h1>
 
