@@ -4,14 +4,14 @@
    O módulo 6 da etapa Programação Orientada a Objetos com JAVA, tem como objetivo estudar a criação de Classes, Atributos
    Métodos e Membros estáticos.</p>
 
-<p>O programa tem como objetivo ler os dados inseridos por um usuário em estoque (hora de recebimento, nome, data, nº lote, quantidade, preço, peso). 
-   Em seguida:
-   • Realizar uma verificação da hora de entrada dos produtos no sistema.
-   • Mostrar os dados do produto (hora de recebimento, nome, data, nº lote, quantidade, preço, peso).
-   • Adicionar novos produtos e atualizar o estoque.
-   • Retirar produtos e atualizar o estoque.
-   • Realizar um cálculo do peso total dos produtos recebidos.
-   • Realizar uma verificação do peso dos produtos e da quantidade caso acima do permitido emitir uma menssagem de aviso.</p>
+<p>O programa tem como objetivo ler os dados inseridos por um usuário em estoque (hora de recebimento, nome, data, nº lote, quantidade, preço, peso).</p> 
+<p>Em seguida:</p>
+<p>• Realizar uma verificação da hora de entrada dos produtos no sistema.</p>
+<p>• Mostrar os dados do produto (hora de recebimento, nome, data, nº lote, quantidade, preço, peso).</p>
+<p>• Adicionar novos produtos e atualizar o estoque.</p>
+<p>• Retirar produtos e atualizar o estoque.</p>
+<p>• Realizar um cálculo do peso total dos produtos recebidos.</p>
+<p>• Realizar uma verificação do peso dos produtos e da quantidade caso acima do permitido emitir uma menssagem de aviso.</p>
 
 <h1> Técnologias Usada 💻 </h1>
 
