@@ -1,6 +1,6 @@
 <h1>Controle de Estoque com JAVA</h1>
 
-<p>Trabalho realizado a partir do módulo 6 do curso de JAVA completo do básico ao avançado da escola UDEMY.
+<p>Trabalho realizado a partir do módulo 6 do curso (JAVA completo do básico ao avançado) da escola UDEMY.
    O módulo 6 da etapa Programação Orientada a Objetos com JAVA, tem como objetivo estudar a criação de Classes, Atributos
    Métodos e Membros estáticos.</p>
 
@@ -12,6 +12,8 @@
 <p>• Retirar produtos e atualizar o estoque.</p>
 <p>• Realizar um cálculo do peso total dos produtos recebidos.</p>
 <p>• Realizar uma verificação do peso dos produtos e da quantidade caso acima do permitido emitir uma menssagem de aviso.</p>
+
+<p>O objetivo do código foi trabalhar com a criação de um projeto e dentro dele a criação de classes o tornando mais limpo e de mais fácil operação.</p>
 
 <h1> Técnologias Usada 💻 </h1>
 
